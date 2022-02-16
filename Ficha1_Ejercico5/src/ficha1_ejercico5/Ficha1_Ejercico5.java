@@ -13,7 +13,7 @@ public class Ficha1_Ejercico5 {
 
     /**
      * @param args the command line arguments
-     */
+     */ 
     public static void main(String[] args) {
         // TODO code application logic here
         int i = 1;
@@ -22,6 +22,10 @@ public class Ficha1_Ejercico5 {
 
         System.out.println("valor i = " + i + " despres de cridar a la funcio modificar");
         System.out.println("");
+        
+        
+        System.out.println("HOLA GENTE, ESTO ES UNA PRUEBA PARA GitHub");
+        System.out.println("Esto es una segunda linea ");
 
     }
 
@@ -29,7 +33,7 @@ public class Ficha1_Ejercico5 {
         System.out.println("variable " + variable + " dins de la funcio modificar");
         variable = 9;
         System.out.println("variable " + variable + " dins de la funcio modificar");
-        return;
+        return;      
     }
 
 }
